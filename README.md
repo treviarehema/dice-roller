@@ -1,4 +1,3 @@
-
 # Dice Roller 🎲
 
 A simple Python program that simulates rolling a dice. Each run gives you a random number between 1 and 6.

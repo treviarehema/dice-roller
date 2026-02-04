@@ -11,4 +11,4 @@ A simple Python program that simulates rolling a dice. Each run gives you a rand
 1. Make sure you have Python installed.
 2. Download or clone this repository.
 3. Open a terminal/command prompt.
-4. Run the program with:
+4. Run the program with: dice_roller.py
